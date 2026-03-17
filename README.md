@@ -1,12 +1,18 @@
 # test_repositry
 
-This is a test repository used to verify GitHub Copilot Coding Agent functionality.
+このリポジトリは、GitHub Copilot Coding AgentやGitHub Actionsなど、さまざまな機能を試すためのテスト用リポジトリです。
 
-## Overview
+## 概要
 
-This repository serves as a sandbox for testing automated code changes via GitHub Copilot Coding Agent.
+このリポジトリは以下のことを試す場として活用します：
 
-## Files
+- **GitHub Copilot Coding Agent** を使った自動コード変更の検証
+- **GitHub Actions** を使ったCI/CDワークフローの実験
+- その他、GitHubのさまざまな機能の検証
 
-- `test` - A simple test file
-- `hello.py` - A simple Python example script
+いろいろ試すよ！🚀
+
+## ファイル
+
+- `test` - シンプルなテストファイル
+- `hello.py` - シンプルなPythonサンプルスクリプト
